@@ -1,2 +1,2 @@
 # Salu2
-:school_satchet:
+:school_satchel:
